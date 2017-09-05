@@ -1,0 +1,25 @@
+﻿div.AnimalFrame {
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height:200px;
+    border: 2px solid black;
+    margin: 25px;
+    margin-left:55px;
+    position: relative;
+    background-color:aquamarine;
+    
+}
+
+a.AnimalName {
+    width: inherit;
+    position: absolute;
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
+
+
+
+
